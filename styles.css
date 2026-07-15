@@ -1,0 +1,16 @@
+.header
+{
+    position: absolute;
+    top: -40%;
+    left: 25%;
+    font-size: 100px;
+}
+
+.box
+{
+    background-color: #371F54;
+    color:lavender;
+    position: absolute;
+    padding: 16px;
+    border-radius: 16px;
+}
